@@ -28,3 +28,27 @@ This repository also contain
   - KFold cross validation
 
   - Exercise
+
+# ML Project
+
+Banglore Home price prediction Model using SK-Learn
+
+which include :
+
+  - Data Cleaning:
+     
+     - Handle NA values
+     
+     - Feature Engineering
+     
+     - Dimensionality Reduction
+     
+     - Outlier Removal Using Business Logic
+     
+     - Outlier Removal Using Standard Deviation and Mean
+     
+     - One Hot Encoding
+  
+  - Build a ML Model
+  
+   
