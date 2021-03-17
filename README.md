@@ -2,7 +2,7 @@
 
 This repository contain different machine learning model :
 
--Linear Regression.
+  - Linear Regression.
 
 -Logistic Regression.
 
