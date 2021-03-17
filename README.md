@@ -4,27 +4,27 @@ This repository contain different machine learning model :
 
   - Linear Regression.
 
--Logistic Regression.
+  - Logistic Regression.
 
--Decision Tree.
+  - Decision Tree.
 
--Random Forest
+  - Random Forest
 
--KMeans Clustering
+  - KMeans Clustering
 
--SVM
+  - SVM
 
 
 This repository also contain 
 
--Gradient Descent & Cost Function
+  - Gradient Descent & Cost Function
 
--Joblib & Pickle
+  - Joblib & Pickle
 
--Dummy Variables & One Hot Encoding
+  - Dummy Variables & One Hot Encoding
 
--Split available dataset into training and test
+  - Split available dataset into training and test
 
--KFold cross validation
+  - KFold cross validation
 
--Exercise
+  - Exercise
