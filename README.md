@@ -14,6 +14,8 @@ This repository contain different machine learning model :
 
   - SVM
 
+  - Naive Bayes classifier
+
 
 This repository also contain 
 
